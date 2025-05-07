@@ -1,5 +1,3 @@
-# TypeScript Concepts Explained
-
 ## 1. What are some differences between interfaces and types in TypeScript?
 
 Lets understand whats interface is, interface and type both are like brothers. They define a structure of a object to enforce type safety.
